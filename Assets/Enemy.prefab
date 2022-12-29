@@ -133,7 +133,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 50
   speed: 10
-  speedFadeIn: 9
+  speedFadeIn: 6
   damage: 10
   range: 2.5
   worth: 5

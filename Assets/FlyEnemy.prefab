@@ -138,7 +138,7 @@ MonoBehaviour:
   damage: 5
   range: 1.5
   worth: 5
-  averageTimeToFire: 0.5
+  averageTimeToFire: 1
   blowbackSpeed: 2.5
   blowbackTime: 0.21
   blowbackVelocityDecay: 0.02
